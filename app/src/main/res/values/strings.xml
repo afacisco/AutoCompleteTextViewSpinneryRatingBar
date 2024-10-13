@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AutoCompleteTextViewySpinner</string>
+    <string name="mens_descripcion">Marcas de surf</string>
+    <string name="toast_ratingbar">Puntuación: %1$s</string>
+
+    <!-- Elementos pasados al adaptador para los controles AutoCompleteTextView y Spinner -->
+    <string-array name="marcas_surf">
+        <item>Lost</item>
+        <item>Pukas</item>
+        <item>Hurley</item>
+        <item>QuickSilver</item>
+        <item>NSP</item>
+        <item>Indo</item>
+        <item>Olaian</item>
+        <item>HS</item>
+    </string-array>
+</resources>
